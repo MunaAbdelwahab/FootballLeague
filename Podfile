@@ -10,6 +10,6 @@ target 'Football League' do
   pod 'RxSwift'
   pod 'RxCocoa'
   pod 'SDWebImage'
-  #pod 'RealmSwift'
+  pod 'RealmSwift'
   #pod "RxRealm"
 end
